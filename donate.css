@@ -1,0 +1,40 @@
+body, html {
+    height: 100%;
+  }
+  
+  .banner {
+    background-image: url("./images/donation9.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .banner-text{
+    font-size: 80px;
+    color: white;
+  }
+  .banner-ptext{
+    font-size: 20px;
+    color: white;
+  }
+  .Donate{
+    margin-top: 200px;
+  }
+.Donate-text{
+    font-size: 55px;
+    font-weight: bold;
+}
+.DonateP{
+    width: 75%;
+    display: flex;
+}
+.p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.Emails{
+    width: 900px;
+}
+.Email{
+    width: 700px;
+}
